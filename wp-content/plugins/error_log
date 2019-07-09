@@ -1,0 +1,12 @@
+[13-Jul-2018 12:35:55 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/mastercash1/public_html/wp-content/plugins/hello.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/mastercash1/public_html/wp-content/plugins/hello.php on line 60
+[09-Nov-2018 07:39:00 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/mastercash1/public_html/wp-content/plugins/hello.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/mastercash1/public_html/wp-content/plugins/hello.php on line 60
+[09-Nov-2018 07:39:00 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/mastercash1/public_html/wp-content/plugins/hello.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/mastercash1/public_html/wp-content/plugins/hello.php on line 60

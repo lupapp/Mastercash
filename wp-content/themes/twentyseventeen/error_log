@@ -1,0 +1,33 @@
+[25-Apr-2018 07:25:02 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/mastercash1/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/mastercash1/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[25-Apr-2018 14:14:50 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/mastercash1/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/mastercash1/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[25-Apr-2018 21:49:23 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/mastercash1/public_html/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/mastercash1/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[01-May-2018 22:28:00 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/mastercash1/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/mastercash1/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[05-Jun-2018 13:13:46 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/mastercash1/public_html/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/mastercash1/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[11-Jun-2018 04:49:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/mastercash1/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/mastercash1/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[29-Jul-2018 02:01:09 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/mastercash1/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/mastercash1/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[29-Aug-2018 01:34:20 America/Chicago] PHP Notice:  Undefined index: wp_version in /home/mastercash1/public_html/wp-content/themes/twentyseventeen/functions.php on line 15
+[29-Aug-2018 01:34:20 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/mastercash1/public_html/wp-content/themes/twentyseventeen/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mastercash1/public_html/wp-content/themes/twentyseventeen/functions.php on line 16
